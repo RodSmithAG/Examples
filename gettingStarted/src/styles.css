@@ -1,0 +1,45 @@
+/*.ag-cell-label-container{*/
+    /*!*Necessary to allow for text to grow vertically*!*/
+    /*height: 100%;*/
+/*}*/
+
+/*.ag-header-cell-label {*/
+    /*!*Necessary to allow for text to grow vertically*!*/
+    /*height: 100%;*/
+    /*padding:0 !important;*/
+/*}*/
+
+.customHeaderMenuButton {
+    margin-top: 5px;
+    margin-left: 4px;
+    float: left;
+}
+
+.customHeaderLabel {
+    margin-left: 5px;
+    margin-top: 3px;
+    float: left;
+}
+
+.customSortDownLabel {
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.customSortUpLabel {
+    float: left;
+    margin-left: 3px;
+    margin-top: 4px;
+}
+
+.customSortRemoveLabel {
+    float: left;
+    font-size: 11px;
+    margin-left: 3px;
+    margin-top: 6px;
+}
+
+.active {
+    color: cornflowerblue;
+}
